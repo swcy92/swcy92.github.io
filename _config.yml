@@ -24,7 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : #
   pronouns         : # example: "she/her"  
   bio              : 
   location         : "Ames, IA, USA"
@@ -35,7 +35,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=5z6HyoIAAAAJ&hl=en"
+  googlescholar    : #
 
   orcid            : "https://orcid.org/0009-0000-0304-9908"
   semantic         : # URL
